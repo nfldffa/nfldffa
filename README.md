@@ -43,7 +43,7 @@ Seorang mahasiswa Sistem Informasi yang mendedikasikan waktu untuk memecahkan ma
 ### 📂 Featured Projects
 * **[Music Recommender](https://musicrecom.streamlit.app/)** - Menggunakan *Cosine Similarity* untuk menemukan kemiripan audio musik secara matematis.
 * **[NIXTRAD](https://bikes-sharing-dashboard.streamlit.app/)** - Aplikasi Prediksi Pasar Saham Kuantitatif
-* *Lihat 14+ proyek lainnya di daftar repository saya...*
+* *Lihat proyek lainnya di daftar repository saya...*
 
 ---
 
